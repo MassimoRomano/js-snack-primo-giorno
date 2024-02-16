@@ -14,3 +14,19 @@ let PI ;
 PI = 3.14 ;
 console.log(PI)
 
+
+/*
+Esercizio 2B
+Prova ad assegnare alla costante chiamata PI il valore di 3.1416. Sai dire cosa succede?
+*/
+
+/*const PI ;
+PI = 3.1416 ;
+console.log(PI) ;
+*/
+
+
+/*
+Uncaught SyntaxError: Identifier 'PI' has already been declared (at main.js:23:7)
+*/
+
